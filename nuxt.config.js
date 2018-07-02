@@ -49,7 +49,7 @@ module.exports = {
   css: [
     'animate.css/animate.min.css'
   ],
-  mode: 'spa',
+  mode: 'universal',
   loading: {
     color: '#8dc63f'
   }
