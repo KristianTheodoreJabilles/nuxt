@@ -23,7 +23,7 @@ import AppLogo from '~/components/AppLogo.vue'
 export default {
   head () {
     return {
-      title: 'home',
+      title: 'nuxt-test | home',
       meta: [
         {
           hid: `home content`,

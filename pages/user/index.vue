@@ -14,7 +14,7 @@ import AppLogo from '~/components/AppLogo.vue'
 export default {
   head () {
     return {
-      title: 'users',
+      title: 'nuxt-test | users',
       meta: [
         {
           hid: `user description`,

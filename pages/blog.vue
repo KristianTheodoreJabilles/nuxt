@@ -14,7 +14,7 @@ import AppLogo from '~/components/AppLogo.vue'
 export default {
   head () {
     return {
-      title: 'blog',
+      title: 'nuxt-test | blog',
       meta: [
         {
           hid: `blog description`,
