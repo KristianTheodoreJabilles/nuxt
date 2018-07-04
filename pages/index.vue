@@ -2,14 +2,12 @@
   <section class="container">
     <div>
       <h1 class="title">{{name}}</h1>
-      <Button text="Get Started" />
     </div>
   </section>
 </template>
 
 <script>
 import AppLogo from '~/components/AppLogo.vue'
-import Button from '~/components/Button.vue'
 
 export default {
   head () {
@@ -30,8 +28,7 @@ export default {
     }
   },
   components: {
-    AppLogo,
-    Button
+    AppLogo
   },
   data () {
     return {

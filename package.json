@@ -17,8 +17,7 @@
     "animate.css": "^3.6.1",
     "axios": "^0.18.0",
     "bulma": "^0.7.1",
-    "nuxt": "^1.0.0",
-    "rocketship": "github:moneysmartco/rocketship#develop-no-font-awesome"
+    "nuxt": "^1.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
