@@ -95,11 +95,4 @@ h1 {
   color: #fff;
   background-color: #35495e;
 }
-
-.page-enter-active, .page-leave-active {
-  transition: opacity .5s;
-}
-.page-enter, .page-leave-to {
-  opacity: 0;
-}
 </style>
