@@ -1,4 +1,12 @@
 module.exports = {
+  // for example purposes only, generate dynamic routes
+  generate: {
+    routes: [
+      '/user/1',
+      '/user/2',
+      '/user/3'
+    ]
+  },
   /*
   ** Headers of the page
   */
