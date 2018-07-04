@@ -1,7 +1,10 @@
 # nuxt
 
 > Nuxt.js project
-> https://nuxt-test.netlify.com/
+
+```
+https://nuxt-test.netlify.com/
+```
 
 ## Build Setup
 
