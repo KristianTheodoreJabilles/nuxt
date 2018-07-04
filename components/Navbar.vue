@@ -7,7 +7,7 @@
       <ul>
         <li><nuxt-link to="/about">About</nuxt-link></li>
         <li><nuxt-link to="/blog">Blog</nuxt-link></li>
-        <li><nuxt-link to="/user">Users</nuxt-link></li>
+        <li><nuxt-link to="/wizard">Wizard</nuxt-link></li>
       </ul>
     </nav>
   </header>

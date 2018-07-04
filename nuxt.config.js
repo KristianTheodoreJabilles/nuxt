@@ -39,17 +39,21 @@ module.exports = {
     }
   },
   /*
-  ** include all third party libs from node_modules 
+  ** include nuxt modules
   */
   modules: [
     '@nuxtjs/axios'
   ],
   /*
+  ** include all third party plugins 
+  */
+  plugins: ['~/plugins/vue-form-wizard'],
+  /*
   ** include all css here from node_modules 
   */
   css: [
     'animate.css/animate.min.css',
-    // 'rocketship/src/_assets/styles/main.scss',
+    { src: 'bulma/bulma.sass', lang: 'sass' }
   ],
   mode: 'universal',
   loading: {
